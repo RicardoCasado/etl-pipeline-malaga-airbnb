@@ -1,0 +1,1 @@
+# psycopg connects to PostgreSQL and loads records using COPY

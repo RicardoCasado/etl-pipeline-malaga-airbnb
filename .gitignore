@@ -1,0 +1,16 @@
+# Markdown files
+Summary.md
+template.md
+template03.md
+
+# old dataset subfolder
+dataset/*
+
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Credentials
+.env

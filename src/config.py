@@ -1,0 +1,1 @@
+# Database credentials and project paths
